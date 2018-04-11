@@ -1,4 +1,4 @@
-### Anthill Inside 2018 Roadmap Papers (Please add your suggestions here) 
+### Anthill Inside 2018 Roadmap Papers (Please add your suggestions [here](https://github.com/sumodm/anthill_papers/issues/1)) 
 ##### 1 DL: Overview: [Nature: Deep Learning, LeCun et al.](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 Good survey paper to get introduction to Deep Learning. Provides the history and overview of how Deep Learning evolved. They provide an introduction to supervised learning and then provides with biological motivations behind these architectures. They also explain how the CNN and RNN architetures work and showcases some successful applications.
 
@@ -17,10 +17,10 @@ This paper appeaard in 2015 ILSVRC challenge. Their main contribution was skip c
 -----------------------------------------------------
 
 ### Anthill Inside 2018 Papers Discussion Session
-#### Classic Paper Suggestions (Please add your suggestions here)
+#### Classic Paper Suggestions (Please add your suggestions [here](https://github.com/sumodm/anthill_papers/issues/2))
 ##### 1. 
 ##### 2. 
 
-#### Recent Innovative Paper Suggestions (Please add your suggestions here)
+#### Recent Innovative Paper Suggestions (Please add your suggestions [here](https://github.com/sumodm/anthill_papers/issues/3))
 ##### 1. 
 ##### 2. 
